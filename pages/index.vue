@@ -1,5 +1,8 @@
 <template>
   <div>
+    <router-link class="btn btn-light" to="/login">
+      ログイン画面
+    </router-link>
     <router-link class="btn btn-light" to="/form">
       投稿画面
     </router-link>
